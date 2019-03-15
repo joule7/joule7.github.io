@@ -120,3 +120,9 @@ canvas{
 .t{background: #00acee;}
 
 .y{background:#c4302b;}
+
+h1{
+  font-size: 90px;
+  text-align: center;
+  color: white;
+}
