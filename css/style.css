@@ -98,16 +98,16 @@ canvas{
 }
 
 .cardmargen{
-  margin-top: 30%;
+  margin-top: 12%;
 }
           
 .card-action>.btn-floating{
   margin-left: 7%;
 }
 
-.card-content{
+/* .card-content{
   margin-bottom: 25%
-}
+} */
 
 .logo{
   margin-top: 15%;
@@ -120,9 +120,3 @@ canvas{
 .t{background: #00acee;}
 
 .y{background:#c4302b;}
-
-h1{
-  font-size: 90px;
-  text-align: center;
-  color: white;
-}
